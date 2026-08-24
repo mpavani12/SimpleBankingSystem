@@ -6,46 +6,40 @@ Features
 
 Account Creation:
 
-Create a new bank account by providing account number, account holder name, and initial balance.
-Display account details after successful account creation.
+  * Create a new bank account by entering the account number, account holder name, and initial balance.
+  * Display the account details after successful account creation.
 
-Deposit:
+* **Deposit:**
 
-Deposit money into the account.
-Display the updated account balance after the transaction.
+  * Deposit money into the bank account.
+  * Display the updated available balance after a successful deposit.
 
-Withdrawal:
+* **Withdrawal:**
 
-Withdraw money from the account.
-Check for sufficient balance before processing the withdrawal.
-Display an "Insufficient balance" message when the available balance is not enough.
+  * Withdraw money from the bank account.
+  * Check whether sufficient balance is available before processing the transaction.
+  * Display an "Insufficient balance" message when the available balance is not enough.
 
-Balance Enquiry:
+* **Balance Enquiry:**
 
-View account number and account holder name.
-Check the current available balance.
+  * View the account number and account holder name.
+  * Check the current available account balance.
 
-Exception Handling:
+* **Exception Handling:**
 
-Handles invalid user input using try-catch.
-Displays a user-friendly message instead of terminating the application when invalid input is entered.
+  * Handle invalid user input using `try-catch`.
+  * Display a user-friendly error message when invalid input is entered.
 
-Java Concepts Used
+* **Transaction Navigation:**
 
-Classes and Objects
-Inheritance
-Methods
-this keyword
-Conditional Statements
-Exception Handling
-Scanner for User Input
-Recursion
+  * Perform multiple banking transactions without restarting the application.
+  * Continue with another transaction or exit the application.
 
-Technologies Used
+* **User Input:**
 
-Java
-Core Java
-Object-Oriented Programming
+  * Accept account details and transaction information from the user using `Scanner`.
+  * Provide menu-based options for different banking operations.
+
 
 Clone the repository:
 
