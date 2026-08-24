@@ -4,7 +4,7 @@ Banking System is a console-based Java application that simulates basic banking 
 
 Features
 
-Account Creation:
+* **Account Creation:**
 
   * Create a new bank account by entering the account number, account holder name, and initial balance.
   * Display the account details after successful account creation.
@@ -29,17 +29,6 @@ Account Creation:
 
   * Handle invalid user input using `try-catch`.
   * Display a user-friendly error message when invalid input is entered.
-
-* **Transaction Navigation:**
-
-  * Perform multiple banking transactions without restarting the application.
-  * Continue with another transaction or exit the application.
-
-* **User Input:**
-
-  * Accept account details and transaction information from the user using `Scanner`.
-  * Provide menu-based options for different banking operations.
-
 
 Clone the repository:
 
