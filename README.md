@@ -30,5 +30,23 @@ Exception Handling:
 Handles invalid user input using try-catch.
 Displays a user-friendly message instead of terminating the application when invalid input is entered.
 
+Java Concepts Used
+
+Classes and Objects
+Inheritance
+Methods
+this keyword
+Conditional Statements
+Exception Handling
+Scanner for User Input
+Recursion
+
+Technologies Used
+
+Java
+Core Java
+Object-Oriented Programming
+
 Clone the repository:
-git clone https://github.com/yourusername/Banking-System-Java.git
+
+git clone https://github.com/yourusername/Banking-System-Java.git The main() method is available in the SimpleBankingSystem class, which starts the banking application.
